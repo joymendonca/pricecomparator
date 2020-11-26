@@ -4,8 +4,9 @@ Price Comparator is a web scraper bot made with python using selenium which comp
 Requirements:<br>
 Python3<br>
 Selenium<br>
-Chromedriver (Depends on what chrome version you are on I was on 86.0.4240.198 so that is the chromedriver I have provided)<br>
 Tkinter<br>
+Pyperclip<br>
+Chromedriver (Depends on what chrome version you are on I was on 86.0.4240.198 so that is the chromedriver I have provided)<br>
 <br>
 You can download latest or old versions of chrome driver from https://chromedriver.chromium.org/<br>
 If you do not use the proper version of chrome driver the code wont work.<br>
